@@ -1,0 +1,23 @@
+.photo{
+    width:350px;
+    height:400px;
+    margin-left:500px;
+    margin-top:50px;
+}
+
+body{
+    background-color:rgb(63, 62, 62);
+}
+
+.carousel-control-prev-icon,.carousel-control-next-icon{
+  position: absolute;
+  top: 50%;
+  display: inline-block;
+}
+
+.carousel-control-prev-icon{
+  left: 500px;
+}
+.carousel-control-next-icon {
+  right:520px;
+}
